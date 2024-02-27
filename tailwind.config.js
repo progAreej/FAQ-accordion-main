@@ -24,7 +24,7 @@ module.exports = {
         "300":"300px"
       },
       backgroundSize:{
-        "100":"50px"
+        "100":"1000px"
       }
     },
   },
